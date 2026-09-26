@@ -1,0 +1,6 @@
+{
+  "name": "ONG Caxinguêle - Registro de Ocorrências",
+  "description": "Painel de Registro de Ocorrências da ONG Caxinguêle em Mairiporã - SP com mapa interativo, fotos e suporte a links diretos.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
